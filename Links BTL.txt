@@ -1,0 +1,3 @@
+http://erepository.uonbi.ac.ke/bitstream/handle/11295/97285/Final%20Report-Msc%20Computational%20Intelligence.pdf?sequence=1&isAllowed=y 
+https://dzone.com/articles/naive-bayes-tutorial-naive-bayes-classifier-in-pyt
+https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
